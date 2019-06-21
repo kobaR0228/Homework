@@ -25,7 +25,7 @@ echo $array_months["August"];
  $hello="Hello,";
  $name="Kobayashi";
  $world="`s World!";
- echo "<br>"
+ echo "<br>";
  echo $hello.$name.$world;
  
  
